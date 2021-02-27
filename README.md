@@ -5,7 +5,7 @@ Neste repositório visamos divulgar os benefícios disponíveis a todos os aluno
 
 **Se você souber de algum novo serviço que fornece descontos ou gratuidade para os alunos abra um pull request com a atualização**
 
-## Entreterimento
+## Entretenimento
 - [Spotify](https://www.spotify.com/br/student/)
 
 ## Organização
