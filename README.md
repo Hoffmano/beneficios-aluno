@@ -14,3 +14,4 @@ Neste repositório visamos divulgar os benefícios disponíveis a todos os aluno
 ## Desenvolvimento
 - [Postman](https://www.postman.com/company/student-program/)
 - [Jetbrains (IntelliJ, DataGrip, WebStorm)](https://www.jetbrains.com/community/education/)
+- [GitHub PRO para estudantes](https://education.github.com/students)
